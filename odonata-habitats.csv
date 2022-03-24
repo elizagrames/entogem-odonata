@@ -1,0 +1,29 @@
+Classification,Habitat,Subsets
+Agricultural,,
+,farm field,
+,paddy field,
+,paddy fields,
+Aquatic,,
+,lentic,
+,,pond
+,,farm pond
+,,ponds
+,,lagoon
+,,lake
+,riverine,
+,,wadi bed
+,,river
+,,streams
+,,stream
+,,riverbank
+Wetland,,
+,marsh,
+,wetland,
+,reed,
+,saltmarsh,
+,bog,
+Developed,,
+,coal mine,
+,urban,
+Forest,,
+,neotropical forest,

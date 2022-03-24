@@ -1,0 +1,21 @@
+This file contains descriptions for each column present in included_studies.csv
+
+Title: The title of the article
+Year: Year of publication
+DOI: If available, a digital object identifier
+Outcome: the population or community measures reported; note that many of the outcomes can be converted to other measures (e.g. abundance > occurrence; abundance in a multi-species study > richness)
+PlaceName: the most specific place name given in the methods
+HabitatDescription: how the original authors described the study locations
+Latitude: if reported, latitudes of study sites given by the authors
+Longitudes: if reported, longitudes of study sites given by the authors
+mapLat: a haphazard latitude assigned based on PlaceName
+mapLong: a haphazard longitude assigned based on PlaceName
+FirstYear: the first year of data collection
+LastYear: the last year of data collection
+SamplingYears: the number of years during which data was collected
+MaxTimeSeries: the maximum number of continuous years during which sampling took place with no annual gaps
+Timing: the approximate seasonal timing during which studies took place 
+No.Taxa: number of taxa studied, if reported
+Orders: which insect orders the original authors reported studying
+SamplingMethod: how insects were counted or collected in the original study
+DataAvailability: whether data is archived, available in the text, or not publicly available
